@@ -1,0 +1,11 @@
+{
+  "name": "notion-api-practise",
+  "version": "1.0.0",
+  "description": "Practising node.js using the new notion api",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "BlessTheBoy",
+  "license": "ISC"
+}
